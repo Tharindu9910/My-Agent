@@ -3,9 +3,9 @@
 An end-to-end AI agent that represents me and answers questions about my portfolio, projects, and experience in real time.
 
 This project demonstrates practical **LLM engineering**, **RAG pipelines**, **tool calling**, **voice integration**, and **production deployment**.
+---
 Demo: www.tharindu.space
 ---
-
 ## ✨ Features
 
 - 💬 Chat with an AI assistant trained on my portfolio
